@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Messenger4</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_account">Already have account…?</string>
+    <string name="sign_out">Sign out</string>
+    <string name="new_message">New Message</string>
+    <string name="users">Users</string>
+    <string name="profile">Profile</string>
+    <string name="save">Save</string>
+    <string name="register">Register</string>
+    <string name="chats">Chats</string>
+    <string name="chat">Chat</string>
+    <string name="send_message">Send message</string>
+</resources>
